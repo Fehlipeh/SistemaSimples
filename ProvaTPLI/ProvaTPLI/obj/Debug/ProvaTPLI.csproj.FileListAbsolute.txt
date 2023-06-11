@@ -1,0 +1,14 @@
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\bin\Debug\ProvaTPLI.exe.config
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\bin\Debug\ProvaTPLI.exe
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\bin\Debug\ProvaTPLI.pdb
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.csproj.AssemblyReference.cache
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.FuncionariosListar.resources
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.Properties.Resources.resources
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.csproj.GenerateResource.cache
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.csproj.CoreCompileInputs.cache
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.exe
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.pdb
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.FuncionariosForm.resources
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.MENU.resources
+C:\Users\felib\source\repos\ProvaTPLI\ProvaTPLI\obj\Debug\ProvaTPLI.Login.resources
